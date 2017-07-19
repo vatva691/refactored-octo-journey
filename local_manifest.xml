@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/lge/w5" name="vm03/android_device_lge_w5" remote="github" revision="cm-12.1" />
+    <project path="device/lge/w5" name="LineageOS/android_device_lge_w5" remote="github" revision="cm-12.1" />
     <project path="device/lge/msm8610-common" name="vm03/android_device_lge_msm8610-common" remote="github" revision="cm-12.1" />
-    <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1"  />
-    <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1"  />
+    <project path="hardware/qcom/fm" name="LineageOS/android_hardware_qcom_fm" revision="cm-12.1"  />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-12.1"  />
     <project path="vendor/lge/msm8610-common" name="vm03/proprietary_vendor_lge_msm8610-common" remote="github" revision="cm-12.1" />
     <project path="vendor/lge/w5" name="vm03/proprietary_vendor_lge_w5" remote="github" revision="cm-12.1" />
-    <project path="kernel/lge/msm8226" name="vm03/android_kernel_lge_msm8226" remote="github" revision="cm-12.1-new" />
+    <project path="kernel/lge/msm8226" name="LineageOS/android_kernel_lge_msm8226" remote="github" revision="cm-12.1-new" />
     <project path="kernel/lge/msm8610" name="vm03/android_kernel_lge_msm8610" remote="github" revision="cm-12.1" />
 </manifest>
