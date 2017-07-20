@@ -5,5 +5,5 @@
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1"  />
     <project path="vendor/lge/w5" name="TheMuppets/proprietary_vendor_lge/w5" remote="github" revision="cm-14.1" />
     <project path="kernel/lge/msm8226" name="LineageOS/android_kernel_lge_msm8226" remote="github" revision="cm-14.1 />
-    <project path="kernel/lge/msm8610" name="vm03/android_kernel_lge_msm8610" remote="github" revision="cm-12.1" />
+    <project path="kernel/lge/msm8610" name="vm03/android_kernel_lge_msm8610" remote="github" revision="cm-14.1" />
 </manifest>
