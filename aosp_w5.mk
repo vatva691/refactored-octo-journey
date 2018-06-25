@@ -15,3 +15,4 @@ PRODUCT_NAME := aosp_w5
 
 PRODUCT_PACKAGES += \
     Launcher3
+
