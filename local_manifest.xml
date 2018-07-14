@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="device/lge/w5" name="LineageOS/android_device_lge_w5" remote="github" revision="cm-14.1" />
-    <project path="hardware/qcom/fm" name="LineageOS/android_hardware_qcom_fm" revision="cm-14.1"  />
+
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1"  />
     <project path="vendor/lge/w5" name="TheMuppets/proprietary_vendor_lge/w5" remote="github" revision="cm-14.1" />
     <project path="kernel/lge/msm8226" name="LineageOS/android_kernel_lge_msm8226" remote="github" revision="cm-14.1 />
